@@ -1,0 +1,5 @@
+campaign_id,campaign_name,channel,product,start_date,target_segments
+1,Повторное предложение кредита наличными,push,cash_loan,2025-03-01,"mass,salary"
+2,Кредит наличными для зарплатных клиентов,sms,cash_loan,2025-03-15,salary
+3,Кредитная карта для активных клиентов,email,credit_card,2025-04-05,"mass,premium,young"
+4,Рефинансирование для клиентов с кредитной историей,push,refinancing,2025-04-20,"mass,premium,salary"
